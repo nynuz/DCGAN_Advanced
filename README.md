@@ -130,4 +130,4 @@ L'interpolazione lineare tra due punti dello spazio latente dimostra che il mode
 
 ## Licenza
 
-Questo progetto è stato sviluppato a scopo didattico come parte del corso di Generative AI del Master in AI Engineering di @ProfAI
+Questo progetto è stato sviluppato a scopo didattico come parte del corso di Generative AI del Master in AI Engineering di [ProfessionAI](https://github.com/ProfAI)
